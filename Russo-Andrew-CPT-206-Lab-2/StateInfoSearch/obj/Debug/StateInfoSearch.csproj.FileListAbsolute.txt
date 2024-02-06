@@ -1,0 +1,16 @@
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\StateInfoSearch.exe.config
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\StateInfoSearch.exe
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\StateInfoSearch.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.csproj.AssemblyReference.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.Properties.Resources.resources
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.csproj.GenerateResource.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.csproj.CoreCompileInputs.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.exe
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\State_Info.mdf
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\State_Info_log.ldf
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.SearchState.resources
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\SearchLibrary2.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\bin\Debug\SearchLibrary2.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.csproj.CopyComplete
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\StateInfoSearch\obj\Debug\StateInfoSearch.EditInfo.resources

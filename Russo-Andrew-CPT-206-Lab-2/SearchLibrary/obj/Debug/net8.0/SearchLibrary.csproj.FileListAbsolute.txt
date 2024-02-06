@@ -1,0 +1,11 @@
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\bin\Debug\net8.0\SearchLibrary.deps.json
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\bin\Debug\net8.0\SearchLibrary.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\bin\Debug\net8.0\SearchLibrary.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.AssemblyInfoInputs.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.AssemblyInfo.cs
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.csproj.CoreCompileInputs.cache
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\refint\SearchLibrary.dll
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\SearchLibrary.pdb
+F:\2024_Spring\CPT-206\Russo-Andrew-CPT-206-Lab-2\SearchLibrary\obj\Debug\net8.0\ref\SearchLibrary.dll
