@@ -1,0 +1,3 @@
+The code compiles without any errors, and the code is well-documented. However, there is a significant amount of dead code that is commented out. Futhermore, the form is very well organized and fully-featured. 
+
+I like that the code validates user input. In fact, the class library uses regex to validate, which is both overkill and awesome in my opinion. With that said, the class library is difficult to parse, and I wish that there weren't comments in every single line of code.
