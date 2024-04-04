@@ -1,0 +1,4 @@
+there's a lot of repetitive code, especially in methods like sortStateButton_Click, sortPopButton_Click, etc. Consider refactoring these methods to reduce duplication. 
+You could create a common method for sorting data and reuse it with different parameters. Variable names like si, results, and pick are somewhat cryptic and could be more descriptive. 
+Choose names that clearly indicate the purpose of the variable. There is some basic error handling in place, such as checking for empty search inputs. However, error messages could be more informative and user-friendly. 
+Provide clear instructions on how to correct the error.
